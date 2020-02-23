@@ -4,4 +4,5 @@
 
 Input: erickcp15.github.io to see host site on github
 
-It will say basically what this README says
+Try erickcp15.github.io/Ex.html to see basic hosted github example I made when first creating github sites
+
